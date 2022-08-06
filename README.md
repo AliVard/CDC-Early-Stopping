@@ -1,2 +1,2 @@
 # CDC-Early-Stopping
-Codes for "Intersection of Parallels" on CIKM'22
+Codes for "Intersection of Parallels as an Early Stopping Criterion" on CIKM'22.
